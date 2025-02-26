@@ -1,0 +1,14 @@
+C:\Users\william.hsoga\source\repos\terceiro_problema\bin\Debug\net8.0\terceiro_problema.exe
+C:\Users\william.hsoga\source\repos\terceiro_problema\bin\Debug\net8.0\terceiro_problema.deps.json
+C:\Users\william.hsoga\source\repos\terceiro_problema\bin\Debug\net8.0\terceiro_problema.runtimeconfig.json
+C:\Users\william.hsoga\source\repos\terceiro_problema\bin\Debug\net8.0\terceiro_problema.dll
+C:\Users\william.hsoga\source\repos\terceiro_problema\bin\Debug\net8.0\terceiro_problema.pdb
+C:\Users\william.hsoga\source\repos\terceiro_problema\obj\Debug\net8.0\terceiro_problema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\william.hsoga\source\repos\terceiro_problema\obj\Debug\net8.0\terceiro_problema.AssemblyInfoInputs.cache
+C:\Users\william.hsoga\source\repos\terceiro_problema\obj\Debug\net8.0\terceiro_problema.AssemblyInfo.cs
+C:\Users\william.hsoga\source\repos\terceiro_problema\obj\Debug\net8.0\terceiro_problema.csproj.CoreCompileInputs.cache
+C:\Users\william.hsoga\source\repos\terceiro_problema\obj\Debug\net8.0\terceiro_problema.dll
+C:\Users\william.hsoga\source\repos\terceiro_problema\obj\Debug\net8.0\refint\terceiro_problema.dll
+C:\Users\william.hsoga\source\repos\terceiro_problema\obj\Debug\net8.0\terceiro_problema.pdb
+C:\Users\william.hsoga\source\repos\terceiro_problema\obj\Debug\net8.0\terceiro_problema.genruntimeconfig.cache
+C:\Users\william.hsoga\source\repos\terceiro_problema\obj\Debug\net8.0\ref\terceiro_problema.dll

@@ -1,0 +1,14 @@
+C:\Users\william.hsoga\source\repos\problema_quatro\obj\Debug\net8.0\problema_quatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\william.hsoga\source\repos\problema_quatro\obj\Debug\net8.0\problema_quatro.AssemblyInfoInputs.cache
+C:\Users\william.hsoga\source\repos\problema_quatro\obj\Debug\net8.0\problema_quatro.AssemblyInfo.cs
+C:\Users\william.hsoga\source\repos\problema_quatro\obj\Debug\net8.0\problema_quatro.csproj.CoreCompileInputs.cache
+C:\Users\william.hsoga\source\repos\problema_quatro\bin\Debug\net8.0\problema_quatro.exe
+C:\Users\william.hsoga\source\repos\problema_quatro\bin\Debug\net8.0\problema_quatro.deps.json
+C:\Users\william.hsoga\source\repos\problema_quatro\bin\Debug\net8.0\problema_quatro.runtimeconfig.json
+C:\Users\william.hsoga\source\repos\problema_quatro\bin\Debug\net8.0\problema_quatro.dll
+C:\Users\william.hsoga\source\repos\problema_quatro\bin\Debug\net8.0\problema_quatro.pdb
+C:\Users\william.hsoga\source\repos\problema_quatro\obj\Debug\net8.0\problema_quatro.dll
+C:\Users\william.hsoga\source\repos\problema_quatro\obj\Debug\net8.0\refint\problema_quatro.dll
+C:\Users\william.hsoga\source\repos\problema_quatro\obj\Debug\net8.0\problema_quatro.pdb
+C:\Users\william.hsoga\source\repos\problema_quatro\obj\Debug\net8.0\problema_quatro.genruntimeconfig.cache
+C:\Users\william.hsoga\source\repos\problema_quatro\obj\Debug\net8.0\ref\problema_quatro.dll
